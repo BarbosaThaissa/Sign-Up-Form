@@ -30,7 +30,7 @@ This project was developed with the following technology:
 
 It’s a Sign-Up Form for an imaginary service. (tutorial on The Odin Project)
 
-Web project: https://barbosathaissa.github.io/Landing-Page/
+Web project: https://barbosathaissa.github.io/Sign-Up-Form/
 
 ## :memo: Licença
 
